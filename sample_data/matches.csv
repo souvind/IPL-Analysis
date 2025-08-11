@@ -1,0 +1,4 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,winner,player_of_match
+1,2017,Mumbai,2017-04-05,MI,KXIP,MI,bat,normal,MI,SR Watson
+2,2017,Pune,2017-04-06,KKR,SRH,KKR,field,normal,KKR,CH Gayle
+3,2018,Delhi,2018-04-07,CSK,MI,CSK,bat,normal,CSK,MS Dhoni
